@@ -1,4 +1,4 @@
-![githubbanner2.png](githubbanner2.png)
+![githubbanner2.png](githubbanner.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![unpa](https://custom-icon-badges.demolab.com/badge/UNPA-UARG-blue.svg?logo=unpa_uarg)](https://www.uarg.unpa.edu.ar/)
@@ -8,7 +8,7 @@
 
 Hi!
 
-This is my repository. Please bear with me; it must be full of code, and I'm currently studying computer science to fix it.
+This is my repo. Projects, works and more in a rush...
 
 ## Skills
 * * *
@@ -30,7 +30,7 @@ This is my repository. Please bear with me; it must be full of code, and I'm cur
 
 
 
-### Want more?
+### Need mi service? Send me a message > [Link](https://bio.site/davidrdigan)
 
 * * *
 
